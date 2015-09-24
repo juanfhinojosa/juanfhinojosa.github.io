@@ -1,4 +1,9 @@
-div.Top_Header{
+p.Top_Header {
 	font-size: 3em;
 	font-family: Helvetica;
+}
+
+p.First_class {
+	font-size: 4em;
+	font-family: "Times New Roman";
 }
