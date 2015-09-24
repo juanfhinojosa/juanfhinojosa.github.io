@@ -1,0 +1,11 @@
+p.Top_Header {
+	font-size: 3em;
+	font-family: Helvetica;
+	color: red;
+}
+
+p.First_class {
+	font-size: 4em;
+	font-family: "Times New Roman";
+	color: blue;
+}
