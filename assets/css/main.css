@@ -28,6 +28,10 @@ p {
     text-align: center;
 }
 
+.offset {
+	text-align: right;
+}
+
 
 /* Links */
 a {
