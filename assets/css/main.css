@@ -280,3 +280,7 @@ a:after {
 sm {
 	font-size: 12px;
 }
+
+#title-name {
+	font-weight: lighter;
+}
