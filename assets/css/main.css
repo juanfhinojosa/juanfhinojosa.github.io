@@ -204,7 +204,7 @@ a:after {
 
 #skillswrap {
 	background: #2c3e50;
-	padding-top: 60px;
+	padding-top: 10px;
 	padding-bottom: 60px;
 	color: white;
 }
@@ -276,6 +276,28 @@ a:after {
 	color: #758a8b;
 }
 
+.desc-2 {
+    padding-top: 50px;
+}
+
+.desc-2 p {
+    /*color: #2f2f2f;*/
+}
+
+.desc-2 t {
+    /*color: #34495e;*/
+    font-weight: 700;
+}
+
+.desc-2 imp {
+    padding: 6px;
+    color: white;
+    background: #34495e;
+}
+
+.desc-2 more {
+    color: #BEBEBE;
+}
 
 sm {
 	font-size: 12px;
