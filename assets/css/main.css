@@ -129,13 +129,18 @@ a:after {
 }
 
 	#section-topbar ul#nav a:hover {
-	  background: #222;
+	  /*background: #222;*/
+
 	  text-decoration: none;
 	  border-left: 1px solid #111;
+
+      color: transparent;
+      text-shadow: 0 0 5px rgba(0,0,0,0.5);
+
 	}
 
 	#section-topbar ul#nav .active a {
-		background: #44bbaa;
+		/*background: #44bbaa;*/
 		border-left: 1px solid #111;
 	}
 
