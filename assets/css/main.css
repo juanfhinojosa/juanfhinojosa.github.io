@@ -17,6 +17,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #333;
 }
 
+#resume_icon:hover {
+	font-weight: bold;
+}
+
 .mailto {
 	color: white;
 }
