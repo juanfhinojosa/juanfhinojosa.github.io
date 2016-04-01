@@ -17,6 +17,14 @@ h1, h2, h3, h4, h5, h6 {
     color: #333;
 }
 
+h3:hover {
+	font-weight: bold;
+}
+
+#mail:hover {
+	font-weight: bold;
+}
+
 
 /* Paragraph & Typographic */
 p {
