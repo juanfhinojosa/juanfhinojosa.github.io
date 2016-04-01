@@ -17,15 +17,14 @@ h1, h2, h3, h4, h5, h6 {
     color: #333;
 }
 
-h3:hover {
-	font-weight: bold;
+.mailto {
+	color: white;
 }
 
-/* Footer email */
-#mail:hover {
+.mailto:hover {
 	font-weight: bold;
+	color: white;
 }
-
 
 /* Paragraph & Typographic */
 p {
@@ -288,6 +287,10 @@ a:after {
 
 .desc more {
 	color: #758a8b;
+}
+
+.mailto {
+	color: white;
 }
 
 .desc-2 {
